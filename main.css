@@ -5,13 +5,14 @@
 h1 {
   size: 25px;
 }
+
 tr{
   vertical-align: top;
   
 }
 td h3 {
-	 vertical-align: top;
-   top: 20px;
+  vertical-align: top;
+  padding-right: 20px;
 }
 
 header {
